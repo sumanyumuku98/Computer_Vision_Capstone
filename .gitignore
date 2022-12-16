@@ -1,0 +1,11 @@
+*zip
+datasets
+envs/
+*pyc*
+*~
+slurm*
+*dummy*
+create_split*
+create_mask*
+*pth
+server*
